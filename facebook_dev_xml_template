@@ -1,0 +1,5 @@
+﻿<resources>
+    <string name="facebook_app_id">{{YOUR_APP_ID}}</string>
+    <string name="fb_login_protocol_scheme">fb{{YOUR_APP_ID}}</string>
+    <string name="facebook_client_token">{{YOUR_CLIENT_TOKE}}</string>
+</resources>
