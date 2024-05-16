@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0-android</TargetFramework>
+    <SupportedOSPlatformVersion>21</SupportedOSPlatformVersion>
+    <OutputType>Exe</OutputType>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationId>dev.tuyentv.facebook.quickstart</ApplicationId>
+    <ApplicationVersion>1</ApplicationVersion>
+    <ApplicationDisplayVersion>1.0</ApplicationDisplayVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Com.Facebook.Android.FacebookAndroidSdk" Version="17.0.0" />
+    <PackageReference Include="Xamarin.AndroidX.ConstraintLayout" Version="2.1.4.11" />
+    <PackageReference Include="Xamarin.Kotlin.StdLib.Jdk8" Version="1.9.23.1" />
+  </ItemGroup>
+</Project>
