@@ -1,4 +1,4 @@
-# Stripe QuickStart for .NET
+# Facebook SDK QuickStart for .NET
 
 ## Prerequisites
 
